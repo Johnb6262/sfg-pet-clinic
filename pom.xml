@@ -47,8 +47,8 @@
                 <artifactId>maven-release-plugin</artifactId>
                 <configuration>
                     <goals>install</goals>
-                    <autoVersionSubModules>true</autoVersionSubModules>
-                    <javadocExecutable>${java.home}/bin/javadoc</javadocExecutable>
+<!--                    <autoVersionSubModules>true</autoVersionSubModules>-->
+<!--                    <javadocExecutable>${java.home}/bin/javadoc</javadocExecutable>-->
                 </configuration>
             </plugin>
         </plugins>
